@@ -28,12 +28,12 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paarth14&show_icons=true&locale=en&layout=compact" alt="paarth14" style="max-width:100%;margin: 25px;"/></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paarth14&show_icons=true&locale=en&layout=compact" alt="paarth14" style="max-width:100%;margin: 25px;"/></p>
 
-<br />
+<br /> -->
 
-|<img src="https://github-readme-stats.vercel.app/api?username=paarth14&show_icons=true&locale=en"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=paarth14&"/>|
-|---|---|
+|<img src="https://github-readme-stats.vercel.app/api/top-langs?username=paarth14&show_icons=true&locale=en&layout=compact"/>|<img src="https://github-readme-stats.vercel.app/api?username=paarth14&show_icons=true&locale=en"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=paarth14&"/>|
+|---|---|---|
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paarth14&show_icons=true&locale=en" alt="paarth14" /></p><br />
 
