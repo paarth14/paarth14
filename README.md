@@ -32,8 +32,14 @@
 
 <br /> -->
 
-|<img src="https://github-readme-stats.vercel.app/api/top-langs?username=paarth14&show_icons=true&locale=en&layout=compact"/>|<img src="https://github-readme-stats.vercel.app/api?username=paarth14&show_icons=true&locale=en"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=paarth14&"/>|
-|---|---|---|
+<!-- |<img src="https://github-readme-stats.vercel.app/api/top-langs?username=paarth14&show_icons=true&locale=en&layout=compact"/>|<img src="https://github-readme-stats.vercel.app/api?username=paarth14&show_icons=true&locale=en"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=paarth14&"/>|
+|---|---|---| -->
+
+<p > <img src="https://github-readme-stats.vercel.app/api?username=paarth14&show_icons=true&theme=gotham" alt="" />
+  <p ><img height=175  src="https://github-readme-stats.vercel.app/api/top-langs?username=paarth14&show_&hide=c%23icons=true,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+	  <br>
+	  <br>
+	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paarth14&"/>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paarth14&show_icons=true&locale=en" alt="paarth14" /></p><br />
 
