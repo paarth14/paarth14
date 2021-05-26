@@ -4,11 +4,11 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=paarth14&label=Profile%20views&color=0e75b6&style=flat" alt="paarth14" /> </p> -->
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning- **React.js**
 
-- 👨‍💻 Portfolio [https://paarthkothari.vercel.app/](https://paarthkothari.vercel.app/)
+- 👨‍💻 Portfolio: [https://paarthkothari.vercel.app/](https://paarthkothari.vercel.app/)
 
-- 📫 How to reach me **paarthkothari14@gmail.com**
+- 📫 How to reach me: **paarthkothari14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
