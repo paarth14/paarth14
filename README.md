@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paarth Kothari</h1><br />
-<h3 align="center">I'm a 2nd year Computer Science 🖥️ Student 👨🏻‍💻 Currently on my journey of BE from Dr. D.Y. Patil College of Engineering 👨‍🎓</h3><br />
+<h3 align="center">I'm a 2nd year Computer Science 🖥️ Student, Currently on my journey of BE from Dr. D.Y. Patil College of Engineering 👨‍🎓</h3><br />
 <!-- <h3 align="center">I'm a Full-stack Web Enthusiast 👨‍💻</h3> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=paarth14&label=Profile%20views&color=0e75b6&style=flat" alt="paarth14" /> </p> -->
