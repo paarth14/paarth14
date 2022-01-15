@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning- **React.js**
 
-- 👨‍💻 Portfolio: [https://paarthkothari.vercel.app/](https://paarthkothari.vercel.app/)
+- 👨‍💻 Portfolio: [https://paarthkothari.netlify.app/](https://paarthkothari.netlify.app/)
 
 - 📫 How to reach me: **paarthkothari14@gmail.com**
 
