@@ -6,7 +6,7 @@
 
 - 💻 I'm a Full-stack Web Enthusiast
 
-- 🌱 I’m currently learning- **React.js**
+- 🌱 I’m currently learning- **Django**
 
 - 👨‍💻 Portfolio: [https://paarthkothari.netlify.app/](https://paarthkothari.netlify.app/)
 
@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/paarth14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paarth14" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/paarth-kothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="paarth-kothari" height="30" width="40" /></a>
 <a href="https://codesandbox.com/paarth14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="paarth14" height="30" width="40" /></a>
-<a href="https://instagram.com/paarthkothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paarthkothari" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/paarthkothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paarthkothari" height="30" width="40" /></a> -->
 <a href="https://www.codechef.com/users/paarth14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="paarth14" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/paarth14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="paarth14" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/paarthkothari14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="paarthkothari14" height="30" width="40" /></a>
